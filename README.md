@@ -1,4 +1,4 @@
-# JetBrains Academy's Hangman project
+# [JetBrains Academy's Hangman project](https://hyperskill.org/projects/69?goal=391)
 
 ## About 
 This program allows the user to play a game of Hangman against the computer, which selects random words to guess. See the wiki for more details. This program uses the random_word third party module.
